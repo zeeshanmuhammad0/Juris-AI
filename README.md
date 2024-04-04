@@ -1,1 +1,1 @@
-# Juris-AI
+# Juris-AI-Client-Side
